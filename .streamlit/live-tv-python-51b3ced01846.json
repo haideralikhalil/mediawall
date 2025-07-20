@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "live-tv-python",
+  "private_key_id": "51b3ced01846d8175c9ad07455c817f2d50c466a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDF1HR+bH+2gA7R\nMx9IAydB4O/eJ/pOO3mwpv6RR/HlO2MOPLMXidJtt36xWSiLHFDKCgwmdaOGEiIm\nlijuvlKAV7mMALDf4TqjThsAWGVYnJsSeUSscNMTI5WIALlylq2gAv7uX773N9db\n2Etd9RZUjLXvdPV4Wzyss9mdHxtcZ2eivp5MylDsHDOQgeD2yBF7NcSZXzUsOcJF\nOGmSuvChMpgXJ2Hkd4lB7XdWqNRLBX7VjSDKsxMPEZtxx9fQ9GQ6fsyvk74Qkega\nUahPK4HoXktFYOvKMu0IV0SZMBbUutIN4Xh9zW34yKjdLUSPDVRLL14L3AFhwVTp\nDnom9T11AgMBAAECggEAKNwYs4P1XNxWMx879sOv+Atdf6UCLeZa3AGh0p/pdk8t\nxmMDGnl83OxpXnfrx8+xYAlzOP5TJ/3Wz+Fz0tu8boWv7Rq3bYY3dkNLkGaxh/vQ\ni6BAbt1euzU+TTjZFLHKaqIzxUhBSQ5fjLi/2EgmtI/bg/nEOXeesIz1BV7HZ+4V\n+c9aaHqgo6nY5WL8Yz9s6jxIKJWx/0L0j7kO2X52ui2z9HZpnYvoM+eBxi19R8Ln\nacpFwsZmJm5Xhi4R71op44Cd+KklF/9S1xEBSqAf7IITFKdaSxf8Go7vgKFZnSzF\neu4sxjabKkWMM66lU8p6VF3Tg1wBRnDW48VI0EwkAQKBgQD9jhAIMunL99PuTZiI\n1qTz/U1/cRzKkbvFguSkhDeNEAqwzVZDA7EgZp+RGCLeXV/tDA7kbtrWLmjog5VR\nOyNAOf9eoMQZB+CqnuGqeGJyI0FnXjQ7J3Y3Vb8OfWbVv3FVFbAqnLaAI5HS1r42\nRK8UFQD8PA8avdtiWzhbKg4BLQKBgQDHvNO59mCmRck+UOi0mneJo9xsZz2tYmrZ\n6M1xMCcXc2rQP/AFr/Ow4Q8nWN0LUEqAmfP0ssN9/yL8+2fuuoFhxs4UApKP1I+/\nyDmrAlVEyeqqlZPli2TRypgFZeg6dC7PIZRpVTlmQFJAEDbngvVItNEIODToaNnk\n2Y8TFLcKaQKBgQDAPK07Ch7oXgV4b6xuUw7NTgcr0H6bttI+dXcUpInZkYgJdCUq\nuenZPvVL9Ji7LuBDwRipaMLSEG3Jm7nh1IxtbYuIGyuSLr7PnZZKwOsizkgQLwQ6\ntTiTy5cHTVxiQruSXtcp95cGn/E3gUjFrF1xRFty4bYx+DAU6kRYGhJ0IQKBgDY3\n/clXJfk8rFosIF8WJyjHwEf05nswYgzw8wOsrI/jFrWdBYylrKLxFOn7Z1Vw4Ch0\nohJkjEihf1/o5teY7RIbo0kvQZWlf7fxpCXVpkvb+8V+gP0oj5+bPRUKCrYDX8l+\nNgk5xzEIeMtHG4BQvkCURMHUcBg+jhdfL0VgtCcxAoGBALKJWcBFd5T5626cxxOg\n9hyN2CICSQnWfxKKfGhAfxSr2TUeGCL39PPKZ4gsZTKf53PyFlfnqeOVL8hXIq24\n9N8xyfN569QC3bN5+43TAkGLac7rrOUAN5sYf6yIIlTZctU58uhi9g+vLPTnL4hP\n30bzoxwvpAikGmM5i89RCWeJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "livestreamlit-googlesheet-serv@live-tv-python.iam.gserviceaccount.com",
+  "client_id": "116386598186387131335",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/livestreamlit-googlesheet-serv%40live-tv-python.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

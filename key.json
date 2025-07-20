@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "live-tv-channels-9e23c",
+  "private_key_id": "8d25061887063d55f01770150b50ae395c704a3e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCF8NRFTEwzo4UV\nzVLIqJLCATWfX/Mr5La/WxYmsDZWgNmTMptriFyvrFjBDVXU4iz5cVX1EpSS6Bsd\njD7e0N9NSBD7ktD7G0telfVqOcDGl77bRh+SqWFSOd7HApv/EaHnRlhC0BZcGwwG\nf/Q4hxRcb/qUSJqwK/bYv1Naedhs2D4rKpDj8KiWTQ69MS1Rtsb4IMe19nucFIMd\nJYoa0vAfnHDLRd/1PXKeppfm/Lf6Az7Ww5Qdh8ccyDv1RpTiTbZMy+iHp5toHFO7\nFqn+hv8yB2FAAwlrqQq29vgjo2fIMcCgEA5LHfug+qkxTCKcdim4F2qSYjNoNylD\n7kIpexyjAgMBAAECggEAArZIpgqQdG84L6PTrEp1hkYd/tcjhl0AMkm23hutTf0X\n6roYmYnOTqRPu8D4XvIhdP+NfQPeTEc03VlMoJhcHSV7aoyjfKIl2Ylxya/Xrm2+\nKJR36TFSziZr013DKNwDijpLaTbrbPwDN1J58HcTu3ds/Hmn4C9TtTnShz92WWXU\nBISXaYhykcIPJky+maHxBETRX3zSJZajbwWJSmUi9KgdueWsnx6Vd0VVRLqHo71N\nFR3U/5F+hiLVR+FqonuI4e0h7mMRfxIjjL1rfK7pC6DpBQdRMml7GiaLutM9x/nQ\nsnWJw7/v3UjyHPi3PbAUEnI+7D7zTQ2+cI1rEzpBCQKBgQC70dsVgWVEEOeVmWW8\nt71aLhCMQQKh5pMYk3oXJRDnJuojcJOn7gvkTtlpPXQ2b9AhVP3EmUc4NifFLP17\nca+kETtFj0PF+odOL+2R7WA7M6Nvqbm2eTqpXwzjz2QUnPGal9bi58wVNCDnpUZU\nNLQ70j8stbiIbxslnIbXYyWJ9QKBgQC2j/sw5S0JbMZVxFJOxLJ/2PMrxY3eQpGd\n60qLeT6XYjU38CELsnazL9DvwnVWFOr/t5zj43U04Vlj7oqXbwqc2cDkp47gZb4v\nn2wvY9X8agvZSpkl21fnGwVNvyDrh+2kuak18V0p5zI6VBwkwQQlW0T5quoweGzx\np9E1BPf1NwJ/BSK32t6u5i2QJ4cKQR7FDrIzwaIFcGfdnc5qiDd7PtbRkCaD4xOf\nP57oUvhbNSHZjw/D4JxQVjkk3T9drwJsyw+tjzlboQ44pOqqlFLpTrUawvLhIRwv\nfnIa6B/DnMytzoxYU9wCuJG0VKEwSx0l0HzvPUm6wgBHvb+J8FnFrQKBgQCb9DmA\nFna3s21mvRQW598YagupW9UKhlGA1wxSQ1vd1G5j/8UrCeRuxC03dCXqSGpL0t26\nq4dnig5j2NYZ8SjevwISErVyKlgitIylmyKkwy6mDBzyAwN/kEyikuCbc/3llxje\n1PZiInd87ncwSpaxFtvAcGoox+dBNLv6D+mGVwKBgHdfZgwAE9MlYVnT2fsyWnmV\nqLJJFhjApGiIVfy8BhugNjo3gtHgC2wAqjFQhTD0jhpns3RlITTbDoAV869HtMlu\nLklULxXdmvw+t7MEdrK93bDlxJiKZLkR49gd3giMWw/tde2+BcxZwzb/Hlgu2793\nIOXhtQp6lb9KYipIS5np\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@live-tv-channels-9e23c.iam.gserviceaccount.com",
+  "client_id": "113943553995418566519",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40live-tv-channels-9e23c.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
