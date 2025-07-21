@@ -10,7 +10,7 @@ st.set_page_config(
     page_icon="📺",
     layout="wide"
     )
-
+st.write("Hello World!")
 channels = []
 
 db = firestore.Client.from_service_account_json('key.json')
